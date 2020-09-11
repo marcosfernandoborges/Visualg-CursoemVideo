@@ -1,6 +1,8 @@
 # Visualg-CursoemVideo
 Exercicios do Curso Gustavo Guanabara - Algoritmos!
+<br>
 Canal do Youtube - Curso em Video
+<br>
 Professor: Gustavo Guanabara
 
 # Auto detect text files and perform LF normalization
